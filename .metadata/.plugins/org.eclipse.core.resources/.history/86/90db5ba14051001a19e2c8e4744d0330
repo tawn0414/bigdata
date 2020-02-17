@@ -1,0 +1,13 @@
+package hdfs.exam;
+/*
+ * 하둡의 hdfs를 api로 제어하기.
+ * 
+ */
+public class HDFSExam01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
